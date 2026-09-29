@@ -1,0 +1,20 @@
+Package: cursor-auto-runner
+Version: 1.2.12
+Architecture: amd64
+Maintainer: KurtStevenK <kurt.steven.kainzmayer@gmail.com>
+Installed-Size: 304381
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: pool/main/c/cursor-auto-runner/cursor-auto-runner_1.2.12_amd64.deb
+Size: 80510264
+MD5sum: 631df8e41ac56e0ad53fe94d60a4d44f
+SHA1: 4652c234a1defc5c6c130408c03431e06e390827
+SHA256: e0c819422161ecd6d6f9f1fb8829134c4d066aba8a72d7d4bbb3ee10563af356
+Section: default
+Priority: optional
+Homepage: https://github.com/KurtStevenK/cursor-auto-runner#readme
+Description:
+  System-tray app that automatically clicks the Run / Always Run button in the Cursor IDE and tracks click statistics.
+License: MIT
+Vendor: KurtStevenK <kurt.steven.kainzmayer@gmail.com>
+
