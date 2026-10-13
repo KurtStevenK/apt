@@ -1,15 +1,15 @@
 Package: cursor-auto-runner
-Version: 1.2.58
+Version: 1.2.59
 Architecture: amd64
 Maintainer: KurtStevenK <kurt.steven.kainzmayer@gmail.com>
-Installed-Size: 349617
+Installed-Size: 349628
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: pool/main/c/cursor-auto-runner/cursor-auto-runner_1.2.58_amd64.deb
-Size: 117472704
-MD5sum: 8795cbaae99b2c84aa35e8f8143baf34
-SHA1: af097b2ef159048d2ab8143ee7c2dc96b09b9c19
-SHA256: fc29cf128023a1f9515cb06a4e2e71fe5dda7ceeb0557cf93e1e572c6e862966
+Filename: pool/main/c/cursor-auto-runner/cursor-auto-runner_1.2.59_amd64.deb
+Size: 117476864
+MD5sum: 1716fcf8d505ee92bd087eed950a884b
+SHA1: 7cc0d51f8b4c4922fc8664a16dc33d8d2e9f1eb5
+SHA256: 863b632e6a0b852e44c9f6b448d544435e5b66d6f9d890f84c21a444de41b363
 Section: default
 Priority: optional
 Homepage: https://github.com/KurtStevenK/cursor-auto-runner#readme
